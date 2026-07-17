@@ -54,49 +54,73 @@ SmartHireAI is a full-stack, AI-driven platform that mimics real interviews usin
 
 > ## 🖼️ Demo Preview
 
-### 🏠 Home Page
-<p align="center">
-  <img src="./screenshots/home.png" width="900" alt="SmartHireAI Home Page"/>
-</p>
+### 🏠 Landing Page
 
-### 🔐 Login Page
 <p align="center">
-  <img src="./screenshots/login.png" width="900" alt="Login Page"/>
-</p>
-
-### 📋 Dashboard
-<p align="center">
-  <img src="./screenshots/dashboard.png" width="900" alt="Dashboard"/>
-</p>
-
-### 🤖 AI Interview
-<p align="center">
-  <img src="./screenshots/interview.png" width="900" alt="AI Interview"/>
-</p>
-
-### 📊 AI Feedback Report
-<p align="center">
-  <img src="./screenshots/feedback.png" width="900" alt="Feedback Report"/>
-</p>
-
-### 📄 Performance Analytics
-<p align="center">
-  <img src="./screenshots/analytics.png" width="900" alt="Performance Analytics"/>
-</p>
-
-### 🏆 Certificate Generation
-<p align="center">
-  <img src="./screenshots/certificate.png" width="900" alt="Certificate Generation"/>
+  <img src="./public/screenshots/home.png" width="900" alt="SmartHireAI Home Page"/>
 </p>
 
 ---
 
+### ✍️ Sign Up
+
+<p align="center">
+  <img src="./public/screenshots/signup.png" width="900" alt="Sign Up Page"/>
+</p>
+
+---
+
+### 🔐 Sign In
+
+<p align="center">
+  <img src="./public/screenshots/signin.png" width="900" alt="Sign In Page"/>
+</p>
+
+---
+
+### 🎥 Camera Permission
+
+<p align="center">
+  <img src="./public/screenshots/interview-camera.png" width="900" alt="Camera Permission"/>
+</p>
+
+---
+
+### 🤖 AI Interview Session
+
+<p align="center">
+  <img src="./public/screenshots/interview-live.png" width="900" alt="Live AI Interview"/>
+</p>
+
+---
+
+### 📂 All Interviews
+
+<p align="center">
+  <img src="./public/screenshots/all-interviews.png" width="900" alt="All Interviews Dashboard"/>
+</p>
+
+---
+
+### 📊 AI Feedback Report
+
+<p align="center">
+  <img src="./public/screenshots/feedback.png" width="900" alt="Feedback Report"/>
+</p>
+
+---
+
+### 🚀 Landing Hero Section
+
+<p align="center">
+  <img src="./public/screenshots/landing.png" width="900" alt="Landing Hero"/>
+</p>
 ## 🚀 Getting Started
 
 Clone and run locally:
 
 ```bash
-git clone https://github.com/abhijeethere1/SmartHireAI.git
+git clone https://github.com/neveditaraj9216/SmartHireAI.git
 cd SmartHireAI
 npm install
 npm run dev
