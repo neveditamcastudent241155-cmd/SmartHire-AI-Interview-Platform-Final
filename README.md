@@ -1,7 +1,7 @@
 <h1 align="center">SmartHireAI</h1>
 
 <p align="center">
-  <b>An AI-powered mock interview platform built during HackHazards '25</b><br/>
+  <b>An AI-powered mock interview platform built for mca final year project'26</b><br/>
   Simulates recruiter-like interviews, delivers real-time insights, and empowers job seekers with personalized feedback.
 </p>
 
@@ -17,8 +17,7 @@
 
 SmartHireAI is a full-stack, AI-driven platform that mimics real interviews using ultra-fast AI models. Designed to aid in mock preparation for both technical and behavioral rounds, it provides instant feedback, personalized analytics, and voice-powered interactions — all in a beautifully intuitive interface.
 
-> 🏆 Built for [HackHazards '25](https://hackhazards.tech)  
-> 🎯 Ranked **Top 100 teams** out of **5700+ solo hackers** and **2900+ teams**
+> 🏆 Built for [MCA final year  project ]
 
 ---
 
