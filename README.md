@@ -52,7 +52,42 @@ SmartHireAI is a full-stack, AI-driven platform that mimics real interviews usin
 
 ## 🖼️ Demo Preview
 
-> 
+> ## 🖼️ Demo Preview
+
+### 🏠 Home Page
+<p align="center">
+  <img src="./screenshots/home.png" width="900" alt="SmartHireAI Home Page"/>
+</p>
+
+### 🔐 Login Page
+<p align="center">
+  <img src="./screenshots/login.png" width="900" alt="Login Page"/>
+</p>
+
+### 📋 Dashboard
+<p align="center">
+  <img src="./screenshots/dashboard.png" width="900" alt="Dashboard"/>
+</p>
+
+### 🤖 AI Interview
+<p align="center">
+  <img src="./screenshots/interview.png" width="900" alt="AI Interview"/>
+</p>
+
+### 📊 AI Feedback Report
+<p align="center">
+  <img src="./screenshots/feedback.png" width="900" alt="Feedback Report"/>
+</p>
+
+### 📄 Performance Analytics
+<p align="center">
+  <img src="./screenshots/analytics.png" width="900" alt="Performance Analytics"/>
+</p>
+
+### 🏆 Certificate Generation
+<p align="center">
+  <img src="./screenshots/certificate.png" width="900" alt="Certificate Generation"/>
+</p>
 
 ---
 
