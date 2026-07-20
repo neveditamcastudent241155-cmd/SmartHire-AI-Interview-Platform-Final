@@ -6,6 +6,16 @@
 </p>
 
 <p align="center">
+Project Name : Smart Hire Ai Interview Platform<br/>
+Guided By : Dr. Amit Kumar Shukla Sir<br/>
+Learner Name : Nevedita Raj<br/>
+Course : Master of Computer Applications<br/>
+University : ARYABHATTA KNOWLEDGE UNIVERSITY, PATNA<br/>
+ENROLLMENT : 24326711016<br/>
+Session : 2024-2026<br/>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/HackHazards-Top%20100-blueviolet" />
   <img src="https://img.shields.io/badge/Built%20With-Next.js%20%7C%20TypeScript%20%7C%20Groq%20%7C%20Firebase-informational" />
   <img src="https://img.shields.io/badge/Status-Completed-brightgreen" />
@@ -52,69 +62,77 @@ SmartHireAI is a full-stack, AI-driven platform that mimics real interviews usin
 
 ## 🖼️ Demo Preview
 
-> ## 🖼️ Demo Preview
+
 
 ### 🏠 Landing Page
 
 <p align="center">
-  <img src="./public/screenshots/home.png" width="900" alt="SmartHireAI Home Page"/>
-</p>
+  <img width="1600" height="900" alt="homescreen1" src="https://github.com/user-attachments/assets/5c43aeb3-5969-4969-a464-f1d0225ab34e" />
+</p><br/>
 
 ---
 
 ### ✍️ Sign Up
 
 <p align="center">
-  <img src="./public/screenshots/signup.png" width="900" alt="Sign Up Page"/>
-</p>
+ <img width="1600" height="900" alt="signup" src="https://github.com/user-attachments/assets/6d01fd46-8793-487e-9b7b-06ad5c67ae1d" />
+
+</p><br/>
 
 ---
 
 ### 🔐 Sign In
 
 <p align="center">
-  <img src="./public/screenshots/signin.png" width="900" alt="Sign In Page"/>
-</p>
+  <img width="1600" height="900" alt="signin" src="https://github.com/user-attachments/assets/909b239f-ab4c-4e82-a09e-f1b25b7b2d0b" />
+
+</p><br/>
 
 ---
 
 ### 🎥 Camera Permission
 
 <p align="center">
-  <img src="./public/screenshots/interview-camera.png" width="900" alt="Camera Permission"/>
-</p>
+  <img width="1600" height="900" alt="camera_permission" src="https://github.com/user-attachments/assets/d78938b1-15d2-47fb-a256-09030517d26b" />
+
+</p><br/>
 
 ---
 
 ### 🤖 AI Interview Session
 
 <p align="center">
-  <img src="./public/screenshots/interview-live.png" width="900" alt="Live AI Interview"/>
-</p>
+ <img width="1600" height="900" alt="interview_session" src="https://github.com/user-attachments/assets/a0dc6bca-502b-4f81-ae1b-a770a24d24ef" />
+
+</p><br/>
 
 ---
 
 ### 📂 All Interviews
 
 <p align="center">
-  <img src="./public/screenshots/all-interviews.png" width="900" alt="All Interviews Dashboard"/>
-</p>
+  <img width="1600" height="738" alt="all_interviews" src="https://github.com/user-attachments/assets/23faf985-0993-4f06-be9b-318d4b06c9b8" />
+
+</p><br/>
 
 ---
 
 ### 📊 AI Feedback Report
 
 <p align="center">
-  <img src="./public/screenshots/feedback.png" width="900" alt="Feedback Report"/>
-</p>
+ <img width="1253" height="940" alt="feedback" src="https://github.com/user-attachments/assets/2d93402b-e20b-49d3-915e-b77923a65111" />
+
+</p><br/>
 
 ---
 
 ### 🚀 Landing Hero Section
 
 <p align="center">
-  <img src="./public/screenshots/landing.png" width="900" alt="Landing Hero"/>
-</p>
+  <img width="1600" height="714" alt="landing_page" src="https://github.com/user-attachments/assets/3ddd03e2-d417-4e20-8a08-2c920d8c7a22" />
+
+</p><br/>
+---
 ## 🚀 Getting Started
 
 Clone and run locally:
