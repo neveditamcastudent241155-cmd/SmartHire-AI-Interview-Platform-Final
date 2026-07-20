@@ -9,6 +9,7 @@
 Project Name : Smart Hire Ai Interview Platform<br/>
 Guided By : Dr. Amit Kumar Shukla Sir<br/>
 Learner Name : Nevedita Raj<br/>
+College : 711- Cimage Center of Digital Technology and Entrepreneurship, Patna<br/>
 Course : Master of Computer Applications<br/>
 University : ARYABHATTA KNOWLEDGE UNIVERSITY, PATNA<br/>
 ENROLLMENT : 24326711016<br/>
